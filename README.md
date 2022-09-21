@@ -1,4 +1,4 @@
-# Student-Management-System-
+# Student-Management-System
 Basic C++ management project with File system
 
 User ID: 1121
