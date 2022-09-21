@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621361119 source:e:\aiub\fall 2020\algorithms\studentmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
